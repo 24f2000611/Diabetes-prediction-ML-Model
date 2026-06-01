@@ -65,8 +65,6 @@ with st.form("prediction_form"):
         "bmi": bmi,
         "income_lvl": income_lvl, # rhs is from the frontend and lhs from the backend
         "smoking_sts":smoking_sts,
-        "income_lvl":income_lvl,
-        "smoking_sts": smoking_sts,
         "ed_level": ed_level,
         "empl_status": emp_status,
         "cholesterol_total": cholesterol_total,

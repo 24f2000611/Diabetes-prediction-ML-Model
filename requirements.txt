@@ -1,2 +1,7 @@
-streamlit
-scikit-learn
+fastapi==0.129.0
+uvicorn==0.40.0
+streamlit==1.57.0
+catboost==1.2.8
+scikit-learn==1.2.2
+pandas==2.2.3
+numpy==1.26.4
